@@ -25,11 +25,12 @@ fish shell의 git커맨드의 바로가기 툴입니다.
 <img src="http://i.imgur.com/MEKxPSD.png" alt="breeze logos" />
 </div>
 
-## 바로가기 리스트 
+## 바로가기 리스트
 
-| 바로가기 | 오리지널 | 
+| 바로가기 | 오리지널 |
 |:-----------|------------:|
 | gb | git branch |
+| gcb | git checkout -b |
 | gce | git clean |
 | gcef | git clean -fd |
 | gs | git status |
@@ -79,9 +80,9 @@ fish shell의 git커맨드의 바로가기 툴입니다.
 | gtop | git rev-parse --show-toplevel | git 상위 계층의 경로를 표시합니다. |
 | cdgtop | cd (git rev-parse --show-toplevel) | git 상위 계층의 경로를 전환합니다. |
 
-## 인스톨 
+## 인스톨
 
-[Fisher](https://github.com/jorgebucaran/fisher) 모두 사용합니다 
+[Fisher](https://github.com/jorgebucaran/fisher) 모두 사용합니다
 
 ```
 fisher install shinriyo/breeze
@@ -93,15 +94,15 @@ fisher install shinriyo/breeze
 fisher rm shinriyo/breeze
 ```
 
-## 사용법 
+## 사용법
 
-### `git status` 바로가기 `gs`커맨드를 사용해서 숫자를 본다. 
+### `git status` 바로가기 `gs`커맨드를 사용해서 숫자를 본다.
 
 <div class="centered">
 <img src="http://i.imgur.com/F3NHal3.png" alt="Gs With Shortcuts" />
 </div>
 
-### `ga`의 뒤에 숫자지정으로 추가. (`gco`나 `gl`도 숫자지정 가능) 
+### `ga`의 뒤에 숫자지정으로 추가. (`gco`나 `gl`도 숫자지정 가능)
 
 (예)`1`, `1-3`, `2 3`등.
 <div class="centered">

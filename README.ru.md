@@ -33,6 +33,7 @@
 | Команда ярлыка | Оригинал |
 | ----------- | ------------: |
 | gb | git branch |
+| gcb | git checkout -b |
 | gce | git clean |
 | gcef | git clean -fd |
 | gs | git статус |

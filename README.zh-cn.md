@@ -33,6 +33,7 @@
 |快捷方式命令|原创|
 |：----------- | ------------：|
 | gb | git branch |
+| gcb | git checkout -b |
 | gce | git clean |
 | gcef | git clean -fd |
 | gs | git status |
@@ -156,6 +157,7 @@ láizì SCM Breez de###gǎngkǒu
 |kuàijié fāngshì mìnglìng |yuánchuàng |
 |:----------- | ------------:|
 | Gb | git branch |
+| gcb | git checkout -b |
 | gce | git clean |
 | gcef | git clean -fd |
 | gs | git status |

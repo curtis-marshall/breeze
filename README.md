@@ -30,9 +30,10 @@ Translations: [日本語], [繁體中文], [简体中文], [한국어], [Рус�
 
 ### Port from SCM Breez
 
-| Shortcut command | Original | 
+| Shortcut command | Original |
 |:-----------|------------:|
 | gb | git branch |
+| gcb | git checkout -b |
 | gce | git clean |
 | gcef | git clean -fd |
 | gs | git status |

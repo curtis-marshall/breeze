@@ -9,6 +9,7 @@ abbr -a gashp 'git stash pop'
 abbr -a gashu 'git stash --include-untracked'
 abbr -a gau 'git add -u'
 abbr -a gc 'git commit'
+abbr -a gcb 'git checkout -b'
 abbr -a gce 'git clean'
 abbr -a gcef 'git clean -fd'
 abbr -a gcl 'git clone'
@@ -52,6 +53,7 @@ function _breeze_uninstall -e breeze_uninstall
     abbr -e gashu
     abbr -e gau
     abbr -e gc
+    abbr -e gcb
     abbr -e gce
     abbr -e gcef
     abbr -e gcl

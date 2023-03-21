@@ -33,6 +33,7 @@ Es ist inspiriert von [SCM Breeze] (https://github.com/scmbreeze/scm_breeze "SCM
 | Verknüpfungsbefehl | Original |
 |: ----------- | ------------: |
 | gb | git branch |
+| gcb | git checkout -b |
 | gce | git clean |
 | gcef | git clean -fd |
 | gs | git status |

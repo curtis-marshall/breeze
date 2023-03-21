@@ -33,6 +33,7 @@
 | کلید میانبر | اصلی |
 |:-----------|------------:|
 | gb | git branch |
+| gcb | git checkout -b |
 | gce | git clean |
 | gcef | git clean -fd |
 | gs | git status |

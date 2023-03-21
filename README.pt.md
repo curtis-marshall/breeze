@@ -33,6 +33,7 @@ Tłumaczenia: [日本語], [繁體 中文], [简体 中文], [한국어], [Ру�
 | Polecenie skrótu | Oryginał |
 |:-----------|------------:|
 | gb | git branch |
+| gcb | git checkout -b |
 | gce | git clean |
 | gcef | git clean -fd |
 | gs | git status |

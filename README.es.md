@@ -33,6 +33,7 @@ Traducciones: [日本語], [中文], [简体 中文], [한국어], [Русски
 | Comando de acceso directo | Original |
 |:-----------|------------:|
 | gb | git branch |
+| gcb | git checkout -b |
 | gce | git clean |
 | gcef | git clean -fd |
 | gs | git status |

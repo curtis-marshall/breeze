@@ -33,6 +33,7 @@ Balık kabuğundaki git komutu için kısayol araçları.
 | Kısayol komutu | Orijinal |
 |:-----------|------------:|
 | gb | git dalı |
+| gcb | git checkout -b |
 | gce | git temiz |
 | gcef | git temiz -fd |
 | gs | git durumu |

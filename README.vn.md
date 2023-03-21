@@ -29,9 +29,10 @@ Bản dịch: [日本語], [繁體中文], [简体中文], [한국어], [Рус�
 
 ## Danh sách phím tắt
 
-| Phím tắt | Bản gốc | 
+| Phím tắt | Bản gốc |
 |:-----------|------------:|
 | gb | git branch |
+| gcb | git checkout -b |
 | gce | git clean |
 | gcef | git clean -fd |
 | gs | git status |

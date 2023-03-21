@@ -28,9 +28,10 @@ fish shell用gitコマンドのショートカットツールです。
 
 ## ショートカットリスト
 
-| ショートカット | オリジナル | 
+| ショートカット | オリジナル |
 |:-----------|------------:|
 | gb | git branch |
+| gcb | git checkout -b |
 | gce | git clean |
 | gcef | git clean -fd |
 | gs | git status |
